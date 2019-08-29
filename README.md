@@ -30,7 +30,7 @@
 # Class GitHub Table 
 
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
-|:------------------------|:---------------------|:--------------------------------------------------------|  
+|:Tianhao Zhao|:tianhaozhao|:https://github.com/tianhaozhao/readme/tree/master/.github/ISSUE_TEMPLATE|  
 | Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |  
 | Sashank Baratam | sashankbaratam903 | <https://sashankbaratam903.github.io/practice_repo/> | 
 <br>
